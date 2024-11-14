@@ -1,0 +1,29 @@
+*{ 
+  margin: 0; 
+  padding: 0; 
+  box-sizing: border-box; 
+  font-family: "IBM Plex Mono", monospace;
+
+} 
+.container{ 
+  max-width: 1200px;
+  margin: 0 auto; 
+  padding: 0 15px; 
+}
+html{
+  scroll-behavior: smooth;
+}
+#h1{
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  text-align: center;
+}
+#div{
+  margin: 600px 15px 900px 15px;
+  
+}
+#div1{
+  margin: 600px 15px 900px 15px;
+  
+}
